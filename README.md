@@ -1,2 +1,2 @@
-# grepAros
-alat za pretragu teksta u fajlu
+# grebarosfon
+Projekat- Arhitektura računara i operativni sistemmi
