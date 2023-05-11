@@ -10,3 +10,5 @@ strstr("jen dva tri", "dva");
 49	50	51	52	53	17	0
 
 line[5] = 0
+
+test
